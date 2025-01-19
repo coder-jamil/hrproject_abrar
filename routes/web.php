@@ -31,7 +31,7 @@ Route::group(['middleware'=>'guest'],function(){
         
     //print_r(array_column($countries_array,'name'));
 
-    //echo "</pre>";
+    //echo "</pre>"; ttttt
 
 //});
 
